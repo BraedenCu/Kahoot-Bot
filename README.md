@@ -14,5 +14,5 @@ python get-pip.py
 Pyautogui: 
 pip3 install pyautogui
 
-
+And that's it!
 
